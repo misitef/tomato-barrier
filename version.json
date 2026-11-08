@@ -1,6 +1,6 @@
 {
-  "versionCode": 39,
-  "versionName": "0.1.5.6",
-  "notes": "自习室可查看成员状态与今日进度；统计明细可展开；设置页可检查更新。",
+  "versionCode": 40,
+  "versionName": "0.1.5.7",
+  "notes": "自习室支持同网自动发现与可选密码，增加 Beta 标识；隐私政策补充局域网发现说明。",
   "url": "https://h5coml.vivo.com.cn/h5coml/appdetail_h5/browser_v2/index.html?appId=5405378"
 }
