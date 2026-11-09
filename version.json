@@ -1,6 +1,6 @@
 {
-  "versionCode": 40,
-  "versionName": "0.1.5.7",
-  "notes": "自习室支持同网自动发现与可选密码，增加 Beta 标识；隐私政策补充局域网发现说明。",
+  "versionCode": 41,
+  "versionName": "0.1.5.8",
+  "notes": "自习室成员改为「房主 / 成员 N」显示；自习室页可看到正在使用的白名单应用名；成员倒计时改为本地秒级刷新、每 6 秒对时校准；移除应用内技术文档入口。",
   "url": "https://h5coml.vivo.com.cn/h5coml/appdetail_h5/browser_v2/index.html?appId=5405378"
 }
